@@ -3,8 +3,8 @@
 $rname = $_POST["rname"];
 $ifexist = $_POST["existance"];
 
-if ($ifexist=="Create room") {
+// if ($ifexist=="Create room") {
     
-}
+// }
 echo($ifexist);
 ?>
