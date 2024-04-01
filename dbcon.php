@@ -1,6 +1,7 @@
 <?php
 
-$host = $_SERVER['HTTP_HOST'];
+$host = "ghjghj";
+// $host = $_SERVER['HTTP_HOST'];
 if ($host == "railsoft.in") {
     // $conn = mysqli_connect("localhost", "rail", "F#tyv2h@5h6V", "rail_user");
 }
