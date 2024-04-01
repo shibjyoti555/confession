@@ -8,7 +8,7 @@ elseif($host == "suryacoaching.com"){
     $conn = mysqli_connect("localhost", "suryac", "Qq{nLW%y*0gG", "rail_user");
 }
 else {
-    $conn = mysqli_connect("localhost", "root", "", "nice");
+    // $conn = mysqli_connect("localhost", "root", "", "nice");
 }
 echo($host);
 

@@ -1,5 +1,5 @@
 <?php
-include("dbconn.php");
+// include("dbconn.php");
 $rname = $_POST["rname"];
 $ifexist = $_POST["existance"];
 
