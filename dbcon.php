@@ -1,6 +1,6 @@
 <?php
 
-$host = "ghjghj";
+// $host = "ghjghj";
 // $host = $_SERVER['HTTP_HOST'];
 // if ($host == "railsoft.in") {
 //     $conn = mysqli_connect("localhost", "rail", "F#tyv2h@5h6V", "rail_user");
@@ -11,6 +11,6 @@ $host = "ghjghj";
 // else {
 //     $conn = mysqli_connect("localhost", "root", "", "nice");
 // }
-echo($host);
+// echo($host);
 
 ?>
