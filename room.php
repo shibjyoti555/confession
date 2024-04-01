@@ -6,5 +6,5 @@ $ifexist = $_POST["existance"];
 // if ($ifexist=="Create room") {
     
 // }
-echo($ifexist);
+// echo($ifexist);
 ?>
